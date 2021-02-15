@@ -24,4 +24,4 @@ The usage of these samples is at your own risk. There is no free support related
 ## Author
 coolOrange s.r.l.  
 
-![coolOrange](![coolOrange](https://i.ibb.co/qWFWsqJ/Logo-CO-Full-colore-RGB-short-Payoff.png))
+![coolOrange](https://i.ibb.co/NmnmjDT/Logo-CO-Full-colore-RGB-short-Payoff.png)
