@@ -2,6 +2,7 @@
 
 ## Event Description
 Triggers a job to create STEP for parts and assemblies when released. All other file types will be ignored.
+In comparison with a powerJobs job, there will be no job added to the Vault Job Queue, when the file extenions doesn't fit. This can reduce the number of jobs in the Job Queue enormously. 
 
 ## Installation
 Download all files (Events and Modules) from the current subdirectory of this repository to your powerEvents directory: *C:\ProgramData\coolOrange\powerEvents*
