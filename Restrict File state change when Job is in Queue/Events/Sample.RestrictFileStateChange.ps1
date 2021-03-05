@@ -1,9 +1,6 @@
 #=============================================================================#
-# PowerShell script sample for coolOrange powerEvents                         #
-# Restricts a file status change as long as there are jobs in the queue		  #
-# for this particalar file											      	  #
-#                                                                             #
-# Copyright (c) coolOrange s.r.l. - All rights reserved.                      #
+# PowerShell script sample for COOLORANGE powerEvents                         #
+# Copyright (c) COOLORANGE s.r.l. - All rights reserved.                      #
 #                                                                             #
 # THIS SCRIPT/CODE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER   #
 # EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES #

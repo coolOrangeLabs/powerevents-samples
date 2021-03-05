@@ -1,7 +1,7 @@
-# Restrict File Status change when Job is in Queue
+# Restrict File State change when Job is in Queue
 
 ## Event Description
-Restricts a file status change as long as there are jobs in the queue for this particalar file.
+Restricts a file state change as long as there are jobs in the queue for this particalar file.
 
 ## Installation
 Download all files (Events and Modules) from the current subdirectory of this repository to your powerEvents directory: *C:\ProgramData\coolOrange\powerEvents*
