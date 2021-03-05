@@ -2,7 +2,7 @@
 
 ## Event Description
 Automatically updates file properties on a file state change.
-This sample requires the Vault User Defined Properties (UDPs) "Checked by", "Checked on", "Approved by" and "Approved on" to be present in Vault and is often asked from customers who moved from Productstream Professional to Vault.
+This sample requires the Vault User Defined Properties (UDPs) "Checked by", "Checked on", "Approved by" and "Approved on" to be present in Vault.
 
 This sample is a good example to explain the PreUpdate and PostUpdate actions, that are needed to trigger the job when the state allows permission to modify the file.
 So, of course, a job cannot modify a file if no permission for modification is there.
@@ -26,4 +26,4 @@ Download all files (Events and Modules) from the current subdirectory of this re
 ## At your own risk
 The usage of these samples is at your own risk. There is no free support related to the samples. However, if you have questions to powerEvents, then visit http://www.coolorange.com/wiki or start a conversation in our support forum at http://support.coolorange.com/support/discussions
 
-![coolOrange](https://user-images.githubusercontent.com/36075173/46519882-4b518880-c87a-11e8-8dab-dffe826a9630.png)
+![coolOrange](https://i.ibb.co/NmnmjDT/Logo-CO-Full-colore-RGB-short-Payoff.png)
