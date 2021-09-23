@@ -1,7 +1,7 @@
 # Restrict File State change when Job is in Queue
 
 ## Event Description
-Restricts a file state change as long as there are jobs in the queue for this particalar file.
+Restricts a file lifecycle state change as long as there are jobs in the queue for this particalar file. This can be used to avoid non-tip version errors in jobs on the Vault Job Processor. A file that is about to be executed by the Job Processor (e.g. to create a PDF file) must not get a new file version due to a file lifecycle state change.
 
 ## Installation
 Download all files (Events and Modules) from the current subdirectory of this repository to your powerEvents directory: *C:\ProgramData\coolOrange\powerEvents*
